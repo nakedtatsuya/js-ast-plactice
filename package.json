@@ -1,0 +1,20 @@
+{
+  "name": "js-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^3.0.0",
+    "escodegen": "^2.0.0",
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.2.0",
+    "xmldom": "^0.4.0"
+  }
+}

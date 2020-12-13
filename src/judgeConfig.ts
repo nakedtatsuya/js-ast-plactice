@@ -1,4 +1,4 @@
-module.exports = {
+const judgeConfig = {
     judgeList: [
         {
             type: 'needConsole',
@@ -14,3 +14,5 @@ module.exports = {
         },
     ]
 }
+
+export default judgeConfig
